@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: CloudGuard\n"
-"POT-Creation-Date: 2024-05-03 08:59+0100\n"
+"POT-Creation-Date: 2025-05-29 10:52+0100\n"
 "PO-Revision-Date: 2015-09-18 19:22-0000\n"
 "Last-Translator: \n"
 "Language-Team: pipdig\n"
@@ -90,44 +90,31 @@ msgstr ""
 msgid "This area will display blocked login attempts over time."
 msgstr ""
 
-#: cloudguard.php:272
-#, php-format
-msgid ""
-"Want to test if CloudGuard is working? try entering your login url to <a "
-"href=\"%s\" target=\"_blank\" rel=\"noopener\">gtmetrix.com</a>."
-msgstr ""
-
-#: cloudguard.php:273
-msgid ""
-"This will send a login attempt from Canada by default. If you have allowed "
-"access from CA, you can change the location on that page. Useful, eh?"
-msgstr ""
-
-#: cloudguard.php:321
+#: cloudguard.php:319
 msgid "blocked from"
 msgstr ""
 
-#: cloudguard.php:328
+#: cloudguard.php:326
 msgid "Access granted:"
 msgstr ""
 
-#: cloudguard.php:414
+#: cloudguard.php:412
 msgid "CloudGuard stats have been cleared"
 msgstr ""
 
-#: cloudguard.php:423
+#: cloudguard.php:421
 msgid "Top 5 login attempts blocked by CloudGuard:"
 msgstr ""
 
-#: cloudguard.php:444
+#: cloudguard.php:442
 msgid "Click here for more statistics"
 msgstr ""
 
-#: cloudguard.php:453
+#: cloudguard.php:451
 msgid "Clear stats"
 msgstr ""
 
-#: cloudguard.php:485
+#: cloudguard.php:483
 #, php-format
 msgid ""
 "This widget will display recent login attempts blocked by <a href=\"%s\" "

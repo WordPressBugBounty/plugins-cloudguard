@@ -269,8 +269,6 @@ function cloudguard_options_page() {
 								<h3><?php _e('CloudGuard has protected your website from:', 'cloudguard'); ?></h3>
 							<?php } else { ?>
 								<h3><?php _e('This area will display blocked login attempts over time.', 'cloudguard'); ?></h3>
-								<p><?php printf(__('Want to test if CloudGuard is working? try entering your login url to <a href="%s" target="_blank" rel="noopener">gtmetrix.com</a>.', 'cloudguard'), esc_url('https://gtmetrix.com/')); ?></p>
-								<p>(<?php _e('This will send a login attempt from Canada by default. If you have allowed access from CA, you can change the location on that page. Useful, eh?', 'cloudguard'); ?>)</p>
 							<?php } ?>
 						</div>
 

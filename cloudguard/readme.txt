@@ -2,7 +2,7 @@
 Contributors: pipdig
 Tags: security, cloudflare, login, geolocation, ip, restrict, admin, country
 Requires at least: 4.9
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,9 +31,11 @@ There are other plugins which can **restrict your login page by geographic locat
 
 CloudGuard is different. Since we leverage Cloudflare's geolocation service, your server simply has to read the data, rather than compute and store it locally. Cloudflare does the grunt work, leaving your site safe, secure and optimized.
 
-Note: This plugin requires that you have an account (either free or premium) on [Cloudflare](https://www.cloudflare.com) with [Geolocation](https://support.cloudflare.com/hc/en-us/articles/200168236-What-does-Cloudflare-IP-Geolocation-do-) enabled.
+Note: This plugin requires that you have an account (including the free option) on [Cloudflare](https://www.cloudflare.com) with [Geolocation](https://support.cloudflare.com/hc/en-us/articles/200168236-What-does-Cloudflare-IP-Geolocation-do-) enabled.
 
-Has this free plugin helped you? Please consider [leaving a rating](https://wordpress.org/support/view/plugin-reviews/cloudguard?rate=5#postform) :)
+This free plugin is brought to you by [pipdig](https://www.pipdig.co/)
+
+Please consider [leaving a 5-star rating](https://wordpress.org/support/view/plugin-reviews/cloudguard?rate=5#postform) if this plugin has helped you.
 
 == Installation ==
 
